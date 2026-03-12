@@ -246,6 +246,3 @@ Don’t use `.family` when:
 
 * you want one global state shared everywhere
 
----
-
-If you want, paste your `videoPoolProvider` code and I’ll show you the **best place** to update `playVideoProvider(index)` automatically when the controller changes (pause/play/end).
