@@ -1,6 +1,4 @@
-Below is a **practical English mini-document** you can paste into your project (README / docs). It explains **Riverpod `.family`** with common use cases + a **complete working example**.
 
----
 
 # Riverpod `.family` – Concept, Rules, Common Uses, Full Example
 
